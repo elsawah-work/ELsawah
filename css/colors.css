@@ -307,7 +307,6 @@ textarea:focus {
 .cvfilters li.gridactive {
     color:#fff;
     background-color: #1CE4EB;
-    float: right;
 }
 .cvfilters li.gridactive:hover {
     color:#fff;

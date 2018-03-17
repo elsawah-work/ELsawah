@@ -111,7 +111,7 @@ h6.border:after {
 	position: absolute;
 	text-align: center;
 	bottom: -15px;
-	left: 0;
+	right: 0;
     margin: 0px;
     z-index: 1;
     content: '';
@@ -363,8 +363,9 @@ form .cv-button {
     padding: 60px;
     width: 100%;
     vertical-align: bottom;
-    margin: 0px;
+    margin-left: -49px;
     min-height: 100%;
+    direction: rtl;
 }
 #cv-page-left,#cv-page-right {
     width: 50%;
@@ -823,7 +824,7 @@ form .cv-button {
     font-size: 15px;
 }
 .cv-table-left {
-    float: left;
+    float: right;
     display: inline-block;
     padding-bottom: 12px;
 }
@@ -831,6 +832,7 @@ form .cv-button {
     float: right;
     display: inline-block;
     padding-bottom: 12px;
+    margin-right: 36%;
 }
 /* ================= ICON CONTAINERS ================== */
 .cv-main-icon-container {
@@ -1204,7 +1206,7 @@ form .cv-button {
     zoom: 1;
 }
 .quovolve-nav span {
-    float: left;
+    float: right;
     margin-right: 5px;
 }
 .quovolve-nav a {
@@ -1219,12 +1221,12 @@ form .cv-button {
     -ms-transition: all 0.2s ease-in-out;
 }
 .nav-numbers {
-    list-style: none; 
-    margin: 0;
-    float: right;
+    list-style: none;
+    margin: 0 0 0 -36px;
+    float: left;
 }
 .nav-numbers li {
-    float: left;
+    float: right;
     margin: 0 0 0 5px;
 }
 .nav-numbers li a {

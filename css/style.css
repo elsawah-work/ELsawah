@@ -344,10 +344,10 @@ form .cv-button {
 /* ================= PAGE STRUCTURE ================== */
 .cv-left-slider {
     width: 50%;
-    width: calc(50% - 2.5em);
+    width: calc(52% - 2.5em);
     height: 100%;
     position: fixed;
-    left: 5em;
+    left: -2px;
     top: 0;
     z-index: 2;
 }
@@ -387,7 +387,7 @@ form .cv-button {
 #cv-menu {
     position: fixed;
     top: 0;
-    left: 0;
+    right: 0;
     height: 100%;
     z-index: 999;
 }

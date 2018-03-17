@@ -34,12 +34,12 @@ FOOTER
 ::-moz-selection {
     color: #fff;
     text-shadow: none;
-    background: #de3926;
+    background: #1CE4EB;
 }
 ::selection {
     color: #fff;
     text-shadow: none;
-    background: #de3926;
+    background: #1CE4EB;
 }
 body {
     background-color: #fff;
@@ -54,7 +54,7 @@ h3.border:after,
 h4.border:after,
 h5.border:after,
 h6.border:after {
-    background-color: #de3926;
+    background-color: #1CE4EB;
 }
 p {
     color: #949494;
@@ -63,17 +63,17 @@ a {
     color: #222;
 }
 a:hover {
-    color:#de3926;
+    color:#1CE4EB;
 }
 .label {
     background-color: #f3f3f3;
-    border-left: 3px solid #de3926;
+    border-left: 3px solid #1CE4EB;
 }
 blockquote {
     background: #f3f3f3;
 }
 blockquote:before {
-	background-color: #de3926;
+	background-color: #1CE4EB;
     border:5px solid #fff;
     color:#fff;
 }
@@ -87,7 +87,7 @@ hr {
 input,
 textarea {
     background-color: #fff;
-    border: 1px solid #f3f3f3;
+    border: 1px solid #222222;
     color: #949494;
 }
 input:focus,
@@ -105,8 +105,8 @@ textarea:focus {
     color:#fff;
 }
 .cv-button:hover {
-    background-color: #de3926;
-    border: 3px solid #de3926;
+    background-color: #1CE4EB;
+    border: 3px solid #1CE4EB;
     color:#fff;
 }
 #cv-sidebar input,#cv-sidebar textarea {
@@ -149,7 +149,7 @@ textarea:focus {
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 #cv-main-menu ul li:first-child a {
-    background: #de3926;
+    background: #1CE4EB;
 }
 /* ================= SIDEBAR ================== */
 #cv-sidebar {
@@ -183,7 +183,7 @@ textarea:focus {
 }
 .cv-tags:hover,.sidebar-tags .tags:hover {
     color: #fff;
-    background-color: #de3926;
+    background-color: #1CE4EB;
 }
 .cv-sidebar-post-title{
     color: #949494;
@@ -230,7 +230,7 @@ textarea:focus {
 }
 #home-slide-title span, #home-title h1 .mobile-title{
     color:#fff;
-    background-color: #de3926;
+    background-color: #1CE4EB;
 }
 #home-title p{
     color: #222;
@@ -243,7 +243,7 @@ textarea:focus {
     background-color: #fff;
 }
 #cv-home-social-bar ul li a:hover {
-    color: #de3926;
+    color: #1CE4EB;
 }
 /* ================= CV TABLE ================== */
 .cv-table li {
@@ -306,7 +306,8 @@ textarea:focus {
 }
 .cvfilters li.gridactive {
     color:#fff;
-    background-color: #de3926;
+    background-color: #1CE4EB;
+    float: right;
 }
 .cvfilters li.gridactive:hover {
     color:#fff;
@@ -316,7 +317,7 @@ textarea:focus {
 }
 .cvgrid > li > figure > a:after {
     color:#fff;
-    background-color: #de3926;
+    background-color: #1CE4EB;
 }
 /* ================= LIGHTGALLERY ================== */
 .lg-actions .lg-next, .lg-actions .lg-prev {
@@ -356,7 +357,7 @@ textarea:focus {
     background-color: #333;
 }
 .lg-progress-bar .lg-progress {
-    background-color: #de3926;
+    background-color: #1CE4EB;
 }
 .lg-backdrop {
     background-color: #222;
@@ -371,7 +372,7 @@ textarea:focus {
 	color: #fff;
 }
 .tooltipster-red {
-	background: #de3926;
+	background: #1CE4EB;
 	color: #fff;
 }
 /* ================= TESTIMONIALS ================== */
@@ -418,7 +419,7 @@ textarea:focus {
     background: #222;
 }
 .blog-img:hover .blog-img-caption h4{
-    background: #de3926;
+    background: #1CE4EB;
 }
 .blogcontainer .postdate {
     background-color: #f3f3f3;
@@ -441,7 +442,7 @@ textarea:focus {
 .blogpager .cv-button:hover {
     background-color: #f3f3f3;
     border: 3px solid #f3f3f3;
-    color:#de3926;
+    color:#1CE4EB;
 }
 .comments_content {
     background-color: #f3f3f3;
@@ -454,7 +455,7 @@ textarea:focus {
 }
 /* ================= TABS ================== */
 .resp-tab-active {
-    border-top: 3px solid #de3926 !important;
+    border-top: 3px solid #1CE4EB !important;
 }
 .resp-tabs-list li:hover {
     background-color: #f3f3f3;
@@ -472,18 +473,18 @@ textarea:focus {
 
 .resp-vtabs .resp-tabs-list li:hover {
     background-color: #f3f3f3;
-    border-left: 3px solid #de3926;
+    border-left: 3px solid #1CE4EB;
 }
 .resp-vtabs .resp-tabs-list li.resp-tab-active {
     background-color: #f3f3f3;
-    border-left: 3px solid #de3926;
+    border-left: 3px solid #1CE4EB;
 }
 h2.resp-tab-active {
     background-color: #f3f3f3;
 }
 @media only screen and (max-width: 640px) {
     .resp-tab-active {
-        background-color: #de3926 !important;
+        background-color: #1CE4EB !important;
         color: #fff !important;
     }
 }
@@ -504,7 +505,7 @@ h2.resp-tab-active {
     border-left: 5px solid rgba(255,255,255,0.1);
 }
 .cv-box.cv-red {
-    background-color: #de3926;
+    background-color: #1CE4EB;
     border-left: 5px solid rgba(0,0,0,0.05);
 }
 .cv-box-title {
@@ -540,7 +541,7 @@ h2.resp-tab-active {
     background:#444;
 }
 .mb_YTPBar .mb_YTPseekbar{
-    background:#de3926;
+    background:#1CE4EB;
 }
 .mb_YTPBar .simpleSlider{
     border:1px solid #fff;

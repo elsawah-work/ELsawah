@@ -225,7 +225,7 @@ a:hover {
 }
 .cv-icon{
     text-align: center;
-    margin-right: 10px;
+    margin-left: 10px;
 }
 .responsive-img img{
     width: 100%;
@@ -250,8 +250,8 @@ textarea {
     position: relative;
     width: 100%;
     display: block;
-    margin: 0px 0px 30px 0px;
-    padding: 15px;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
     -webkit-transition: background-color 0.2s linear;
     -moz-transition: background-color 0.2s linear;
     -o-transition: background-color 0.2s linear;
@@ -1159,7 +1159,7 @@ form .cv-button {
 .cvfilters {
     list-style-type: none;
     text-align: center;
-    margin: 0px 0px 20px 0px;
+    margin: 0px 64px 20px 0px;
     padding: 0px;
     display: inline-block;
     vertical-align: bottom;

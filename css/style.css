@@ -710,6 +710,7 @@ form .cv-button {
     margin: 0px;
     padding: 0px;
     overflow: hidden;
+    left: -52px;
 }
 #home-title, #home-slide-title {
     position: absolute;

@@ -1207,7 +1207,7 @@ form .cv-button {
     zoom: 1;
 }
 .quovolve-nav span {
-    float: right;
+    float: left;
     margin-right: 5px;
 }
 .quovolve-nav a {
@@ -1224,7 +1224,7 @@ form .cv-button {
 .nav-numbers {
     list-style: none;
     margin: 0 0 0 -36px;
-    float: left;
+    float: right;
 }
 .nav-numbers li {
     float: right;

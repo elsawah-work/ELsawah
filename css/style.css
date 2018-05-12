@@ -236,10 +236,10 @@ a:hover {
     display: none;
 }
 .img-mobile-only img {
-    width:100%;
+    width: 110%;
     height: auto;
     vertical-align: bottom;
-    margin-left: -52px;
+    margin-left: -74px;
 }
 /* ================= FORMS ================== */
 input[type="text"],
@@ -706,13 +706,13 @@ form .cv-button {
 /* ================= HOMEPAGE ================== */
 #home-image {
     position: relative;
-    width: 100%;
+    width: 110%;
     height: 100%;
     vertical-align: bottom;
     margin: 0px;
     padding: 0px;
     overflow: hidden;
-    left: -52px;
+    left: -75px;
 }
 #home-title, #home-slide-title {
     position: absolute;
@@ -1690,4 +1690,10 @@ h2.resp-accordion {
     -o-transition: color 0.2s ease-in-out;
     -ms-transition: color 0.2s ease-in-out;
     transition: color 0.2s ease-in-out;
+}
+iframe {
+    width: 110%;
+    height: auto;
+    vertical-align: bottom;
+    margin-left: -74px;
 }

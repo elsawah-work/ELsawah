@@ -1693,7 +1693,7 @@ h2.resp-accordion {
 }
 iframe {
     width: 110%;
-    height: auto;
+    height: 100%;
     vertical-align: bottom;
     margin-left: -74px;
 }

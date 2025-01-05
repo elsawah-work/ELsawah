@@ -836,11 +836,9 @@ form .cv-button {
 /* ================= ICON CONTAINERS ================== */
 .cv-main-icon-container {
     position: relative;
-    margin-left: -20px;
-    margin-right: -20px;
     vertical-align: bottom;
     display: inline-block;
-    margin-bottom: -30px;
+	direction: ltr;
 }
 .cv-main-icon-container:after {
     clear:both;

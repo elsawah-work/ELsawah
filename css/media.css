@@ -238,6 +238,10 @@
 }
 
 @media only screen and (max-width: 480px) {
+    .backstretch img {
+      width: 100%;
+      left: 0;
+}
     h1 {
         font-size: 32px;
     }
@@ -303,6 +307,9 @@
     }
     .cv-page-content {
         padding: 40px;
+        width: 86%;
+        float: left;
+        margin: 0;
     }
     .cv-credits {
         padding-left: 93px;

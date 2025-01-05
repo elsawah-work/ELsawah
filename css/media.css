@@ -156,7 +156,7 @@
         display: block;
     }
     .floor {
-        padding-left: 5em;
+        padding-left: 0;
     }
     .cv-left-slider {
         display: none !important;
@@ -353,7 +353,7 @@
         display: none;
     }
     .floor {
-        padding-left: 3.5em;
+        padding-left: 0;
     }
     #cv-main-menu ul li a:before {
         font-size: 20px;

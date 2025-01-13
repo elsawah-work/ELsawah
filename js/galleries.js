@@ -7,25 +7,36 @@
                 dynamic: true,
                 dynamicEl: [
                     {
-                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p1.jpg',
-                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p1-s.jpg',
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1-s.webp',
                         'subHtml': 'Lorem ipsum dolor'
                     },
                     {
-                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
-                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2-s.webp',
                         'subHtml': 'Ullamco ubi mandaremus'
                     },
                     {
-                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.jpg',
-                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3-s.webp',
                         'subHtml': 'Quae expetendis'
                     },
+                        {
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4-s.webp',
+                        'subHtml': 'Ullamco ubi mandaremus'
+                    },
+                        {
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5-s.webp',
+                        'subHtml': 'Ullamco ubi mandaremus'
+                    },
                     {
-                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
-                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
+                        'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6.webp',
+                        'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6-s.webp',
                         'subHtml': 'Non nulla'
                     }
+                        
                 ],
                 index: startIndex, // Start from the clicked image
                 mode: 'lg-slide-vertical',

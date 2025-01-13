@@ -14,20 +14,20 @@ jQuery('#gallery1').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': '../images/photos/p1.jpg',
-            'thumb': '../images/photos/p1-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p1.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p1-s.jpg',
             'subHtml': 'Lorem ipsum dolor'
         }, {
-            'src': 'images/photos/p2.jpg',
-            'thumb': 'images/photos/p2-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
             'subHtml': "Ullamco ubi mandaremus"
         }, {
-            'src': 'images/photos/p3.jpg',
-            'thumb': 'images/photos/p3-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
             'subHtml': "Quae expetendis"
         }, {
-            'src': 'images/photos/p4.jpg',
-            'thumb': 'images/photos/p4-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
             'subHtml': "Non nulla"
         }]
     })
@@ -78,20 +78,20 @@ jQuery('#gallery3').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': 'images/photos/p5.jpg',
-            'thumb': 'images/photos/p5-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.jpg',
             'subHtml': 'Quae expetendis'
         }, {
-            'src': 'images/photos/p2.jpg',
-            'thumb': 'images/photos/p2-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
             'subHtml': "Lorem ipsum dolor"
         }, {
-            'src': 'images/photos/p4.jpg',
-            'thumb': 'images/photos/p4-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
             'subHtml': "Legam a expetendis"
         }, {
-            'src': 'images/photos/p3.jpg',
-            'thumb': 'images/photos/p3-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
             'subHtml': "Magna quamquam"
         }]
     })
@@ -113,16 +113,16 @@ jQuery('#gallery4').on('click', function (e) {
         counter: true,
         // Images
         dynamicEl: [{
-            'src': 'images/photos/p2.jpg',
-            'thumb': 'images/photos/p2-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
             'subHtml': 'Tamen excepteur'
         }, {
-            'src': 'images/photos/p5.jpg',
-            'thumb': 'images/photos/p5-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.jpg',
             'subHtml': "Iudicem admodum"
         }, {
-            'src': 'images/photos/p4.jpg',
-            'thumb': 'images/photos/p4-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
             'subHtml': "Enim pariatur"
         }]
     })

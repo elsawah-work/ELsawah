@@ -1,5 +1,5 @@
 // GALLERY 1
-        jQuery('.cvgrid-img').on('click', function (e) {
+        jQuery('#gallery1').on('click', function (e) {
             "use strict";
             e.preventDefault();
 

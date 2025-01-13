@@ -38,7 +38,7 @@
             });
         });
 // GALLERY 3
-        jQuery('.web').on('click', function (e) {
+        jQuery('.openlightbox').on('click', function (e) {
             "use strict";
             e.preventDefault();
             var startIndex = jQuery(this).closest('li').data('index');

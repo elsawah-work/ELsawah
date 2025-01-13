@@ -63,7 +63,8 @@
             'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
             'subHtml': "Magna quamquam"
         }
-                ],
+],
+        index: startIndex, // Start from the clicked image
         mode: 'lg-slide-vertical',
         zoom: false,
         fullScreen: false,

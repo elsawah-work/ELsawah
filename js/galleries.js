@@ -8,7 +8,7 @@ jQuery('#gallery1').on('click', function (e) {
         mode: 'lg-slide-vertical',
         zoom: true,
         fullScreen: true,
-        autoplay: false,
+        autoplay: true,
         thumbnail: true,
         download: true,
         counter: true,

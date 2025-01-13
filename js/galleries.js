@@ -1,5 +1,5 @@
 // GALLERY 1
-        jQuery('#gallery1').on('click', function (e) {
+        jQuery('.web').on('click', function (e) {
             "use strict";
             e.preventDefault();
 

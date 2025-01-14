@@ -9,7 +9,7 @@
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1-s.webp',
-                        'subHtml': '<a class=\"cv-button primary\" href=\"https://personal-101.blogspot.com.eg\" target=\"_blank\">Live Demo</a>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://personal-101.blogspot.com.eg\" target=\"_blank\">Live Demo</a>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2.webp',

@@ -9,32 +9,32 @@
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://example.com/page1\" target=\"_blank\">Visit Page 1</button>'
+                        'subHtml': '<button class=\"button\" href=\"https://personal-101.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2-s.webp',
-                        'subHtml': 'Ullamco ubi mandaremus'
+                        'subHtml': '<button class=\"button\" href=\"https://personal-14.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3-s.webp',
-                        'subHtml': 'Quae expetendis'
+                        'subHtml': '<button class=\"button\" href=\"https://personal-15.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     },
                         {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4-s.webp',
-                        'subHtml': 'Ullamco ubi mandaremus'
+                        'subHtml': '<button class=\"button\" href=\"https://corporate-14.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     },
                         {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5-s.webp',
-                        'subHtml': 'Ullamco ubi mandaremus'
+                        'subHtml': '<button class=\"button\" href=\"https://corporate-06.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6-s.webp',
-                        'subHtml': 'Non nulla'
+                        'subHtml': '<button class=\"button\" href=\"https://corporate-04.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
                     }
                         
                 ],

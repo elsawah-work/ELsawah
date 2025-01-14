@@ -46,7 +46,7 @@
                 thumbnail: true,
                 download: true,
                 counter: true,
-                speed: 7000
+                speed: 10000
             });
         });
 // GALLERY 3
@@ -81,7 +81,7 @@
         zoom: false,
         fullScreen: false,
         autoplay: true,
-        pause: 5000,
+        pause: 10000,
         thumbnail: false,
         download: false,
         counter: true,

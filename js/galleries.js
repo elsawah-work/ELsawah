@@ -9,7 +9,7 @@
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1-s.webp',
-                        'subHtml': '<a href=\"https://example.com/page1\" target=\"_blank\">Visit Page 1</a>'
+                        'subHtml': '<button class=\"button\" href=\"https://example.com/page1\" target=\"_blank\">Visit Page 1</button>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2.webp',

@@ -51,6 +51,20 @@ h1,h2,h3,h4,h5,h6,strong,label,.tooltipster-content,.cv-table-left,.cv-button,.s
     font-weight: normal;
 }
 /* ================= GENERAL STYLES ================== */
+.button {
+    background-color: #1ce4eb;
+    padding: 1px 15px;
+    font-family: 'Cairo';
+    color: #000;
+    font-weight: bold;
+    margin: 100px;
+    width: auto;
+    height: auto;
+}
+.button:hover {
+    background-color: #65f4f9;
+    color: #fff;
+}
 *{
     margin: 0;
     padding: 0;
@@ -238,20 +252,7 @@ a:hover {
     margin-left: -74px;
 }
 /* ================= FORMS ================== */
-.button {
-    background-color: #1ce4eb;
-    padding: 1px 15px;
-    font-family: 'Cairo';
-    color: #000;
-    font-weight: bold;
-    margin: 100px;
-    width: auto;
-    height: auto;
-}
-.button:hover {
-    background-color: #65f4f9;
-    color: #fff;
-}
+
 input[type="text"],
 input[type="email"],
 input[type="number"],

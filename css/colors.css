@@ -312,7 +312,7 @@ textarea:focus {
     color:#fff;
 }
 .cvgrid li figure figcaption .cvgrid-title {
-    color: #949494;
+    color: #000;
 }
 .cvgrid > li > figure > a:after {
     color:#fff;

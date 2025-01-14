@@ -46,7 +46,7 @@
                 thumbnail: true,
                 download: true,
                 counter: true,
-                speed: 10000
+                pause: 10000
             });
         });
 // GALLERY 3

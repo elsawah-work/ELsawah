@@ -9,32 +9,32 @@
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web1-s.webp',
-                        'subHtml': '<a class=\"cv-button button\" href=\"https://personal-101.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;\">Live Demo</a>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://personal-101.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web2-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://personal-14.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://personal-14.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web3-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://personal-15.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://personal-15.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     },
                         {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web4-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://corporate-14.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://corporate-14.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     },
                         {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web5-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://corporate-06.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://corporate-06.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     },
                     {
                         'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6.webp',
                         'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/web6-s.webp',
-                        'subHtml': '<button class=\"button\" href=\"https://corporate-04.blogspot.com.eg\" target=\"_blank\">Live Demo</button>'
+                        'subHtml': '<a class=\"cv-button button\" href=\"https://corporate-04.blogspot.com.eg\" target=\"_blank\" style=\"margin-bottom: 100px;font-weight: bold;\">Live Demo</a>'
                     }
                         
                 ],

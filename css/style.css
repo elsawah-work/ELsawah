@@ -238,7 +238,7 @@ a:hover {
     margin-left: -74px;
 }
 /* ================= FORMS ================== */
-button.button {
+.button {
     background-color: #1ce4eb;
     padding: 1px 15px;
     font-family: 'Cairo';
@@ -248,7 +248,7 @@ button.button {
     width: auto;
     height: auto;
 }
-button.button:hover {
+.button:hover {
     background-color: #65f4f9;
     color: #fff;
 }

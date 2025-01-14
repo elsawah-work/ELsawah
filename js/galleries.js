@@ -45,7 +45,8 @@
                 autoplay: true,
                 thumbnail: true,
                 download: true,
-                counter: true
+                counter: true,
+                autoplayTimeout: 5000
             });
         });
 // GALLERY 3

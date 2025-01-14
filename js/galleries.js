@@ -59,21 +59,21 @@
         dynamic: true,
         dynamicEl: [
                 {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.jpg',
-            'subHtml': 'Quae expetendis'
-        }, {
             'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
             'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
-            'subHtml': "Lorem ipsum dolor"
-        }, {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
-            'subHtml': "Legam a expetendis"
+            'subHtml': 'المصور الجيد هو الذي يعرف أين وكيف يقف.'
         }, {
             'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.jpg',
             'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
-            'subHtml': "Magna quamquam"
+            'subHtml': 'التصوير الفوتوغرافي يساعد الناس على الرؤية.'
+        }, {
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
+            'subHtml': 'الصور موجودة ، عليك فقط التقاطها.'
+        }, {
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.jpg',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.jpg',
+            'subHtml': 'أينما كان هناك ضوء ، يمكن للمرء أن يصور.'
         }
 ],
         index: startIndex, // Start from the clicked image

@@ -238,6 +238,20 @@ a:hover {
     margin-left: -74px;
 }
 /* ================= FORMS ================== */
+button.button {
+    background-color: #1ce4eb;
+    padding: 1px 15px;
+    font-family: 'Cairo';
+    color: #000;
+    font-weight: bold;
+    margin: 100px;
+    width: auto;
+    height: auto;
+}
+button.button:hover {
+    background-color: #65f4f9;
+    color: #fff;
+}
 input[type="text"],
 input[type="email"],
 input[type="number"],

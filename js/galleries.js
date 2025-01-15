@@ -59,20 +59,20 @@
         dynamic: true,
         dynamicEl: [
                 {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.jpg',
-            'subHtml': 'المصور الجيد هو الذي يعرف أين وكيف يقف.'
-        }, {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.jpg',
-            'subHtml': 'التصوير الفوتوغرافي يساعد الناس على الرؤية.'
-        }, {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2.webp',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p2-s.webp',
             'subHtml': 'الصور موجودة ، عليك فقط التقاطها.'
         }, {
-            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.jpg',
-            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.jpg',
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3.webp',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p3-s.webp',
+            'subHtml': 'التصوير الفوتوغرافي يساعد الناس على الرؤية.'
+        }, {
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4.webp',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p4-s.webp',
+            'subHtml': 'المصور الجيد هو الذي يعرف أين وكيف يقف.'
+        }, {
+            'src': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5.webp',
+            'thumb': 'https://raw.githack.com/elsawah-work/ELsawah/refs/heads/master/images/photos/p5-s.webp',
             'subHtml': 'أينما كان هناك ضوء ، يمكن للمرء أن يصور.'
         }
 ],

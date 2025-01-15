@@ -154,7 +154,7 @@ em {
     font-style: italic;
 }
 label {
-    line-height: 1;
+    line-height: 2;
     margin-bottom: 5px !important;
     display: block;
     font-weight: 700;

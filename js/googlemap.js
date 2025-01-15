@@ -1,6 +1,6 @@
 /////////////////* GOOGLE MAP *////////////////////
 
-/* GOOGLE MAP FOR BIG SCREENS */
+/* GOOGLE MAP FOR BIG SCREENS 
 
 function googlemap() {
     "use strict";
@@ -49,8 +49,8 @@ function googlemap() {
         position: latlng
     });
 }
-
-/* GOOGLE MAP FOR MOBILE DEVICES */
+*/
+/* GOOGLE MAP FOR MOBILE DEVICES 
 
 function mobilemap() {
     "use strict";
@@ -111,4 +111,4 @@ jQuery(window).on('resize orientationchange', function () {
     else {
         mobilemap();
     }
-});
+}); */

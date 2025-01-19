@@ -110,9 +110,9 @@
         top: 40px;
     }
     #cv-home-social-bar ul li a {
-        height: 4em;
-        width: 4em;
-        line-height: 4em;
+        height: 3.5em;
+        width: 3.5em;
+        line-height: 3.5em;
     }
     #cv-home-social-bar ul li a:before {
         font-size: 20px;
@@ -126,11 +126,11 @@
     }
     #home-title h1 span,
     #home-slide-title span {
-        padding: 40px;
+        padding: 15px;
     }
     #home-title p {
         font-size: 24px;
-        padding: 30px 40px;
+        padding: 10px 15px;
     }
     blockquote p {
         font-size: 18px;
@@ -180,10 +180,10 @@
     #home-title h1 span,
     #home-slide-title span {
         font-size: 34px;
-        padding: 30px 40px;
+        padding: 10px 15px;
     }
     #home-title p {
-        padding: 20px 40px;
+        padding: 10px 15px;
     }
     h1 {
         font-size: 38px;
@@ -274,11 +274,11 @@
     #home-title h1 span,
     #home-slide-title span {
         font-size: 30px;
-        padding: 25px 10px;
+        padding: 10px 10px;
     }
     #home-title p {
         font-size: 18px;
-        padding: 20px;
+        padding: 10px;
     }
     #cv-home-social-bar-container {
         bottom: 3.5em;

@@ -131,7 +131,7 @@ textarea:focus {
 }
 /* ================= LOADING ANIMATION ================== */
 #site-loading{
-    background-color: #222; 
+    background-color: #fff; 
 }
 /* ================= PAGE STRUCTURE ================== */
 .cv-page-content {

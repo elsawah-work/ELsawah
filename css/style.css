@@ -734,7 +734,7 @@ form .cv-button {
     margin: 0px;
 }
 #home-title h1 span, #home-slide-title span{
-    padding: 40px 60px;
+    padding: 10px 15px;
     display: inline-block;
     line-height: 1;
 }
@@ -744,7 +744,7 @@ form .cv-button {
 #home-title p{
     font-size: 30px;
     margin: 0px;
-    padding: 30px 60px;
+    padding: 10px 15px;
     word-spacing:normal;
     display: inline-block;
 }
@@ -775,9 +775,9 @@ form .cv-button {
 #cv-home-social-bar ul li a {
     display: block;
     text-indent: -500em;
-    height: 5em;
-    width: 5em;
-    line-height: 5em;
+    height: 3.5em;
+    width: 3.5em;
+    line-height: 3.5em;
     text-align: center;
     position: relative;
     outline: none !important;

@@ -143,14 +143,14 @@
         font-size: 38px;
     }
     #home-title {
-        margin-left: 40px;
-        margin-right: 40px;
+        margin-left: 0;
+        margin-right: 0;
     }
     #home-title h1 .mobile-title {
         display: inline-block !important;
     }
     #cv-home-social-bar-container {
-        left: 40px;
+        left: 0;
     }
     .mobile-map-container {
         display: block;
